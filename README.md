@@ -1,2 +1,5 @@
 # hello-world
-Hello! New here.
+
+Hello!
+I am new to programming. 
+This will be an interesting journey!
